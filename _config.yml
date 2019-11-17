@@ -1,0 +1,30 @@
+title: Gitnoter
+description: 一个基于Git仓库存储数据的轻量级笔记应用
+baseurl: "/zh" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+
+copyright-time: 2018
+
+download:
+  macos: "http://files.git.oschina.net/group1/M00/02/C7/PaAvDFpgPD6ADQTMAMK6Bcw3HE4841.dmg?token=c2c0674ff3287062de12b989ec58769a&ts=1516256971&attname=Gitnoter-osx-v1.0.0.beta7.dmg"
+  macos-text: "下载 macOS 版本"
+  windows: "http://files.git.oschina.net/group1/M00/02/C7/PaAvDFpgPEeAAmJoASje1BZ1vfE302.zip?token=81b64edf79a2467b5347c2e9fafb8806&ts=1516256971&attname=Gitnoter-windows-v1.0.0.beta7.zip"
+  windows-text: "下载 Windows 版本"
+  linux: "http://files.git.oschina.net/group1/M00/02/C7/PaAvDFpgPsiAVxYzAb2x4V-_ALw1308.gz?token=b8cf05b1b56c9561eb4a5a5328eb494f&ts=1516256971&attname=Gitnoter-linux-v1.0.0.beta7.tar.gz"
+  linux-text: "下载 Linux 版本 "
+
+google_analytics: "UA-112375726-1"
+
+cayman-blog:
+  date_format: "%b %-d, %Y"
+
+# social
+author: "MakeHui"
+author-website: http://www.huyaohui.com
+image: thumbnail-jumbo.png
+
+
+theme-name: "cayman-blog"
+theme-url: "https://github.com/MakeHui/cayman-blog"
+
+disqus: 
+  shortname: www-gitnoter-com
